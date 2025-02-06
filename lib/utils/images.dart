@@ -1,0 +1,123 @@
+class images {
+  static const String Logo = 'assets/icons/logo.png';
+  static const String womenwear1 = 'assets/images/womenwear1.png';
+  static const String womenwear2 = 'assets/images/womenwear2.png';
+  static const String womenwear3 = 'assets/images/womenwear3.png';
+  static const String womenwear4 = 'assets/images/womenwear4.png';
+  static const String womenwear5 = 'assets/images/womenwear5.png';
+  static const String womenwear6 = 'assets/images/womenwear6.png';
+  static const String womenwear7 = 'assets/images/womenwear7.png';
+  static const String womenwear8 = 'assets/images/womenwear8.png';
+  static const String filter     = 'assets/icons/filter.png';
+  static const String banner1     = 'assets/images/bannerimg1.png';
+  static const String banner2     = 'assets/images/bannerimg2.png';
+  static const String banner3     = 'assets/images/bannerimg3.png';
+  static const String categoryimg1    = 'assets/images/image1.png';
+  static const String categoryimg2    = 'assets/images/image2.png';
+  static const String watch    = 'assets/images/image3.png';
+  static const String greytshirtmen    = 'assets/images/image4.png';
+  static const String categoryimg5    = 'assets/images/image5.png';
+  static const String categoryimg6    = 'assets/images/image6.png';
+  static const String categoryimg7    = 'assets/images/image7.png';
+  static const String categoryimg8    = 'assets/images/image8.png';
+  static const String categoryimg9    = 'assets/images/image9.png';
+  static const String categoryimg10    = 'assets/images/image10.png';
+  static const String categoryimg11   = 'assets/images/image11.png';
+  static const String categoryimg12   = 'assets/images/image12.png';
+  static const String jockey   = 'assets/images/jockey.png';
+  static const String cosmetics   = 'assets/images/cosmetics.png';
+  static const String suit   = 'assets/images/3piecesuit.png';
+  static const String handbag   = 'assets/images/handbag.png';
+  static const String redhandbag   = 'assets/images/redhandbag.png';
+  static const String footwear   = 'assets/images/blackfootwear.png';
+  static const String kidswear   = 'assets/images/kidswear.png';
+  static const String mensfootwear  = 'assets/images/mensfootwear.png';
+  static const String sleepwear   = 'assets/images/sleepwear.png';
+  static const String womensfootwear   = 'assets/images/womenswear.png';
+  static const String spectacle   = 'assets/images/spectacle.png';
+  static const String headphone   = 'assets/images/headphone.png';
+  static const String womenwearslide1   = 'assets/images/slide1.png';
+  static const String womenwearslide2   = 'assets/images/slide2.png';
+  static const String womenwearslide3   = 'assets/images/slide3.png';
+  static const String womenwearslide4   = 'assets/images/slide3.png';
+  static const String trash   = 'assets/icons/trash.png';
+  static const String share   = 'assets/icons/share.png';
+  static const String discount   = 'assets/icons/discount.png';
+  static const String getback   = 'assets/icons/return.png';
+  static const String upi   = 'assets/icons/upi.png';
+  static const String card   = 'assets/icons/creditcard.png';
+  static const String wallet   = 'assets/icons/wallet.png';
+  static const String bank   = 'assets/icons/bank.png';
+  static const String success   = 'assets/icons/successlogo.png';
+  static const String notification   = 'assets/icons/BellRinging.png';
+  static const String cart   = 'assets/icons/ShoppingCart.png';
+  static const String profilepic1   = 'assets/icons/profilepic.png';
+  static const String profilepic2   = 'assets/icons/profilepic1.png';
+  static const String profilepic3   = 'assets/icons/profilepic2.png';
+  static const String gallery   = 'assets/icons/gallery.png';
+  static const String profile   = 'assets/icons/Ma1.png';
+  static const String location   = 'assets/icons/Ma2.png';
+  static const String menu   = 'assets/icons/menu.png';
+  static const String whatsapp   = 'assets/icons/whatsapp.png';
+  static const String qr   = 'assets/icons/qr.png';
+  static const String ic1   = 'assets/icons/ic1.png';
+  static const String ic2   = 'assets/icons/ic2.png';
+  static const String ic3   = 'assets/icons/ic3.png';
+  static const String ic4   = 'assets/icons/ic4.png';
+  static const String ic5   = 'assets/icons/ic5.png';
+  static const String ic6   = 'assets/icons/ic6.png';
+  static const String ic7   = 'assets/icons/ic7.png';
+  static const String ic8   = 'assets/icons/ic8.png';
+  static const String clockcounter   = 'assets/icons/clockcounter.png';
+  static const String phonecall   = 'assets/icons/phonecall.png';
+  static const String helpcenter   = 'assets/icons/helpcenter.png';
+  static const String question   = 'assets/icons/question.png';
+  static const String lightbg1   = 'assets/icons/lightbg1.png';
+  static const String lightbg2   = 'assets/icons/lightbg2.png';
+  static const String lightbg3   = 'assets/icons/lightbg3.png';
+  static const String lightbg4   = 'assets/icons/lightbg4.png';
+  static const String lightbg5   = 'assets/icons/lightbg5.png';
+  static const String lightbg6   = 'assets/icons/lightbg6.png';
+  static const String drawer1   = 'assets/icons/drawer1.png';
+  static const String drawer2   = 'assets/icons/drawer2.png';
+  static const String drawer3   = 'assets/icons/drawer3.png';
+  static const String drawer4   = 'assets/icons/drawer4.png';
+  static const String drawer5   = 'assets/icons/drawer5.png';
+  static const String drawer6   = 'assets/icons/drawer6.png';
+  static const String drawer7   = 'assets/icons/drawer7.png';
+  static const String drawer8   = 'assets/icons/drawer8.png';
+  static const String drawer9   = 'assets/icons/drawer9.png';
+  static const String drawer10   = 'assets/icons/drawer10.png';
+  static const String add  = 'assets/icons/add.png';
+  static const String sub  = 'assets/icons/sub.png';
+
+
+  static const String cloth   = 'assets/images/cloth.png';
+  static const String orderimage1   = 'assets/images/orderimage1.png';
+  static const String orderimage2   = 'assets/images/orderimage2.png';
+  static const String orderimage3   = 'assets/images/orderimage3.png';
+  static const String orderimage4   = 'assets/images/orderimage4.png';
+  static const String orderimage5   = 'assets/images/orderimage5.png';
+
+
+
+  static const String catimg1   = 'assets/images/catimg1.png';
+  static const String catimg2   = 'assets/images/catimg2.png';
+  static const String catimg3   = 'assets/images/catimg3.png';
+  static const String catimg4   = 'assets/images/catimg4.png';
+  static const String catimg5   = 'assets/images/catimg5.png';
+  static const String catimg6   = 'assets/images/catimg6.png';
+  static const String catimg7   = 'assets/images/catimg7.png';
+  static const String catimg8   = 'assets/images/catimg8.png';
+  static const String catimg9   = 'assets/images/catimg9.png';
+  static const String catimg10   = 'assets/images/catimg10.png';
+  static const String catimg11   = 'assets/images/catimg11.png';
+  static const String catimg12   = 'assets/images/catimg12.png';
+  static const String banner   = 'assets/images/bannersearch.png';
+  static const String illustration   = 'assets/images/illustration.png';
+  static const String successfulillustration   = 'assets/images/successfulillustration.png';
+
+
+
+
+}
